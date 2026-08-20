@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/imgunjantomer/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/imgunjantomer/LEET-CODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/imgunjantomer/LEET-CODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/imgunjantomer/LEET-CODE/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
@@ -63,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/imgunjantomer/LEET-CODE/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
