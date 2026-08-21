@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/imgunjantomer/LEET-CODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/imgunjantomer/LEET-CODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/imgunjantomer/LEET-CODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
