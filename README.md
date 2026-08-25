@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/imgunjantomer/LEET-CODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/imgunjantomer/LEET-CODE/tree/main/0724-find-pivot-index/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imgunjantomer/LEET-CODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0169-majority-element](https://github.com/imgunjantomer/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/imgunjantomer/LEET-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@
 | [0169-majority-element](https://github.com/imgunjantomer/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/imgunjantomer/LEET-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +76,8 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/imgunjantomer/LEET-CODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/imgunjantomer/LEET-CODE/tree/main/0724-find-pivot-index/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
