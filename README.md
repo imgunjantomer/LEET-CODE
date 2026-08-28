@@ -17,6 +17,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imgunjantomer/LEET-CODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/1470-shuffle-the-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imgunjantomer/LEET-CODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/imgunjantomer/LEET-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/imgunjantomer/LEET-CODE/tree/main/0169-majority-element/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +68,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/imgunjantomer/LEET-CODE/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
