@@ -18,6 +18,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imgunjantomer/LEET-CODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/imgunjantomer/LEET-CODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imgunjantomer/LEET-CODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/imgunjantomer/LEET-CODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imgunjantomer/LEET-CODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -92,5 +93,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/imgunjantomer/LEET-CODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imgunjantomer/LEET-CODE/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
