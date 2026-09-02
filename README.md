@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/imgunjantomer/LEET-CODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/imgunjantomer/LEET-CODE/tree/main/0724-find-pivot-index/) | Easy |
+| [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imgunjantomer/LEET-CODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/1470-shuffle-the-array/) | Easy |
@@ -45,6 +46,7 @@
 | [0027-remove-element](https://github.com/imgunjantomer/LEET-CODE/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/imgunjantomer/LEET-CODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +96,11 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/imgunjantomer/LEET-CODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imgunjantomer/LEET-CODE/tree/main/1672-richest-customer-wealth/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
