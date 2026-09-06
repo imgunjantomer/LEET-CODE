@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/imgunjantomer/LEET-CODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/imgunjantomer/LEET-CODE/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imgunjantomer/LEET-CODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/imgunjantomer/LEET-CODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/imgunjantomer/LEET-CODE/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -103,4 +104,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/imgunjantomer/LEET-CODE/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 <!---LeetCode Topics End-->
