@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/imgunjantomer/LEET-CODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/imgunjantomer/LEET-CODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imgunjantomer/LEET-CODE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/imgunjantomer/LEET-CODE/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imgunjantomer/LEET-CODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imgunjantomer/LEET-CODE/tree/main/0268-missing-number/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imgunjantomer/LEET-CODE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/imgunjantomer/LEET-CODE/tree/main/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imgunjantomer/LEET-CODE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/imgunjantomer/LEET-CODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imgunjantomer/LEET-CODE/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
